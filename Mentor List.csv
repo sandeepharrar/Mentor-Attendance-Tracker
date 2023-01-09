@@ -1,0 +1,41 @@
+Student Number,Forename,Surname,Prefered Name,Phone Number,Email,Mentor Type,Sex,Initials,Year
+1,Alex,Zhang,Alex,44 7341345341,xinai.zhang.19@ucl.ac.uk,S,F,AZ,4
+19004097,Xieying,Chen ,Daniel,44 7863927327,xieying.chen.19@ucl.ac.uk,S,M ,XC,4
+19004483,Sachin,Chotai,Sachin,44 7583368899,sachin.chotai.19@ucl.ac.uk,S,M,SC,4
+20067738,Fidhal ,Kotta,Fidhal,44 7719494644,fidhal.kotta.20@ucl.ac.uk,S,M,FK,3
+20000858,Mohamed,Rammal ,Mohamed,44 7709258789,mohamed.rammal.20@ucl.ac.uk,S,M,MR,3
+20012065,Francisco,Papdopulos,Fran,44 7586949417,francisco.papadopulos.20@ucl.ac.uk,S,M,FP,3
+21004750,Tong,Zhang,Tong,44 7536128734,tong.zhang.21@ucl.ac.uk,S,M,TZ,2
+21001988,Nikolas,Papaeracleous,Nikolas,44 7861752994,Nikolas.papaeracleous.21@ucl.ac.uk,S,M,NP,2
+20127187,Merve,Akin,Merve,44 7391117302,merve.akin.20@ucl.ac.uk,S,F,MA,2
+2,Hasha,Dar,Hasha,44 7305576221,hasha.dar.19@ucl.ac.uk,S,M,HD,4
+20117323,Laurence,Vines,Laurence,44 7920192682,laurence.vines.20@ucl.ac.uk,J,M,LV,3
+19072998,George,Stoner,George,44 7874222863,george.stonor.20@ucl.ac.uk,J,M,GS,3
+20087090,Shirom,Selvaraj,Shirom,44 7955267337,shirom.selvaraj.20@ucl.ac.uk,J,M,SS,3
+21005039,Xingzao,Shi ,Morris,44 7830805387,xingzao.shi.21@ucl.ac.uk,J,M,XS,2
+21130588,Udaya,Goel,Udaya,44 7435853890,udaya.goel.21@ucl.ac.uk,J,M,UG,2
+21109917,Ryszard,Nowacki,Ryszard,48 607909299,ryszard.nowacki.21@ucl.ac.uk,J,M,RN,2
+20013243,Albert,Tanase,Albert,44 7709869575,albert.tanase.20@ucl.ac.uk,J,M,AT,3
+21018043,Jobanpreet,Singh,Jobanpreet,44 7728790511,jobanpreet.singh.21@ucl.ac.uk,J,M,JS,2
+3,Samuel,McDougall,Samuel,,samuel.mcdougall.20@ucl.ac.uk,J,M,SM,3
+4,Hamed,Shafei,Hamed,44 7572338004,hamed.shafei.20@ucl.ac.uk,J,M,HS,3
+5,Benjamin,Ashurov,Benjamin,44 7538291915,ben.ashurov.21@ucl.ac.uk,J,M,BA,2
+20007625,Stephane ,Courtines ,Stephane,44 7541050922,stephane.courtines.20@ucl.ac.uk,J,M,SC,3
+19000315,Eric ,Dan Zhi Wei,Eric,44 7718132936,eric.dan.19@ucl.ac.uk,J,M,EW,4
+21024039,Gloria,Pensabene,Gloria,44 7479023168,gloria.pensabene.21@ucl.ac.uk,J,F,GP,2
+21010774,Ramneet,Bains,Ramneet,44 7557787067,ramneet.bains.21@ucl.ac.uk,J,F,RB,2
+21005592,Poojak,Patel,Poojak,44 7480772246,poojak.patel.21@ucl.ac.uk,J,M,PP,2
+21132228,Kiana,Vosough,Kiana,44 7508705235,kiana.vosough.21@ucl.ac.uk,J,F,KV,2
+20016991,Adhira,Sahadeo,Adhira,44 7444201209,adhira.sahadeo.21@ucl.ac.uk,J,F,AS,2
+21003806,Yue,Yang,Yang,44 7536965516,yang.yue.21@ucl.ac.uk,J,M,YY,2
+6,Fabiana,Chiantore,Fabiana,44 7521464971,fabiana.chiantore.20@ucl.ac.uk,J,F,FC,3
+21006352,Dhrumil,Rajpara,Dhrumil,44 7734591537,dhrumil.rajpara.21@ucl.ac.uk,J,M,DR,2
+20019251,Theodor,Baum,Theodor,44 7436552349,theo.baum.20@ucl.ac.uk,J,M,TB,3
+20011632,Rebecca,Cleary,Rebecca,44 7443454122,rebecca.cleary.21@ucl.ac.uk,J,F,RC,2
+7,Toby ,Bunn ,Toby,44 7557684759,toby.bunn.20@ucl.ac.uk,J,M,TB,3
+8,Tan Yen ,Kiat ,Tan Yen,44 7379020856,yen.tan.20@ucl.ac.uk,J,M,TK,3
+20179062,Yiping,Yang,Yiping,44 7536134737,yiping.yang.20@ucl.ac.uk,J,F,YY,2
+21023605,Bartol,Vahcic,Bartol,"385,919,339,263",bartol.vahcic.21@ucl.ac.uk,J,M,BV,2
+9,Sophia,Lebbar,Sophia,33 788976921,sophia.lebbar.20@ucl.ac.uk,J,F,SL,3
+22522201,Hannah ,Rastrick,Hannah,44 7746847994,hannah.rastrick.21@ucl.ac.uk,J,F,HR,2
+21001546,Matthew,Hoult,Matthew,44 7468570075,matthew.hoult.21@ucl.ac.uk,J,M,MH,2
